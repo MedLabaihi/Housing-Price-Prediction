@@ -50,7 +50,7 @@ Open **`main.R`** in RStudio.
 ## Mathematical Background
 
 ### Linear Regression
-Linear regression is a statistical method used to model the relationship between a dependent variable \( y \) and one or more independent variables \( X \). The model assumes a linear relationship between the input variables and the output. The mathematical form of a linear regression model is:
+Linear regression is a statistical method used to model the relationship between a dependent variable \( $y$ \) and one or more independent variables \( $X$ \). The model assumes a linear relationship between the input variables and the output. The mathematical form of a linear regression model is:
 
 
 $$y = \beta_0 + \beta_1X_1 + \beta_2X_2 + \cdots + \beta_nX_n + \epsilon$$
@@ -70,7 +70,7 @@ A Decision Tree is a non-parametric, supervised learning method used for classif
 For regression, each internal node represents a test on a feature, each branch represents an outcome of the test, and each leaf node represents a predicted value. The model’s output is the mean of the values in the leaf nodes.
 
 ### Support Vector Machine (SVM)
-Support Vector Machine (SVM) is a powerful supervised learning algorithm primarily used for classification, but it can also be adapted for regression tasks (SVR - Support Vector Regression). SVM works by finding the hyperplane that best separates the data into different classes. In regression, the SVM model tries to fit the best line (or hyperplane) that has the maximum number of points within a margin of error \( \epsilon \) around the line.
+Support Vector Machine (SVM) is a powerful supervised learning algorithm primarily used for classification, but it can also be adapted for regression tasks (SVR - Support Vector Regression). SVM works by finding the hyperplane that best separates the data into different classes. In regression, the SVM model tries to fit the best line (or hyperplane) that has the maximum number of points within a margin of error \( $\epsilon$ \) around the line.
 
 The mathematical form of the SVM regression model is:
 
