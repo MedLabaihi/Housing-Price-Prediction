@@ -97,3 +97,11 @@ where:
 - \( $n$ \) is the number of observations.
 
 A lower RMSE value indicates a better fit of the model to the data.
+## Contact  
+For any questions or feedback regarding this project, please contact:
+
+- **Name**: Labaihi Mohammed
+- **Email**: m.labaihi@gmail.com
+- **GitHub**: [Labaihi Mohammed](https://github.com/MedLabaihi)
+
+Feel free to contribute to this project or reach out for further discussions on coding theory and its applications.
